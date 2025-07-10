@@ -1,6 +1,18 @@
 # eLearning
 
 
+*COMPANY NAME :- CODTECH IT SOLUTIONS*
+
+*NAME :-MANASRANJAN ROUT*
+
+*INTERN ID :-CITSOD80*
+
+*DOMAIN :-FRONTEND DEVELOPEMENT*
+
+*DURATION :-4WEEKS*
+
+*MENTOR :-NEELA SANTOSH*
+
 
 Web Hero is a beginner-friendly and engaging e-learning web platform designed to serve as a gateway for aspiring developers. The primary goal of this site is to help learners gain essential web development skills through high-quality video tutorials, curated by some of the most popular mentors in the tech education space. The platform's structure is simple, intuitive, and user-centric, with sections like Home, Mentors, Courses, About Us, and Contact Us.
 
